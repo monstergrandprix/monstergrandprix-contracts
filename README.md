@@ -1,1 +1,1 @@
-# monstergrandprix-contracts
+# Monster GrandPrix Contracts
